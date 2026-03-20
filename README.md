@@ -1,2 +1,3 @@
-# micro-testing-framework-k4ad
-Automated issue comment bot repository
+# Micro Testing Framework K4Ad
+
+Automated issue comment bot repository.
